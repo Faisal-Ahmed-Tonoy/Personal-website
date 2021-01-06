@@ -1,13 +1,11 @@
 body{
     margin:0;
     font-family: 'Oswald', sans-serif;
-  
 }
 h1{
     font-size: 50px;
     margin-bottom: 0px;
     margin-top: 0px;
-     
 }
 h2{
     font-size: 45px;
@@ -28,13 +26,12 @@ p{
 }
 /* section{
     height:550px;
-    
-}*/
+}
+*/
 .top-banner{
     padding-top: 5%;
     margin-bottom: 10%;
     height:550px;
-
 }
 .half-width{
     width: 40%;
@@ -42,12 +39,10 @@ p{
     margin-left: 5%;
     padding-left: 2%;
 }
-.half-width img{ 
+.half-width img{
     width: 100%;
     margin-left: 10%;
-    
 }
-
 .blue-highlight{
     color: #142952;
 }
@@ -70,17 +65,13 @@ p{
     margin-top: 14%;
     margin-bottom: 26%;
     height:550px;
-
-
-    
 }
 .working-projects h2{
     text-align: center;
     margin-bottom: 10%;
 }
 .lightSalmon-highlight{
-    color:  lightSalmon;
-
+    color: lightSalmon;
 }
 .one-third-width {
     float: left;
@@ -95,9 +86,7 @@ p{
 .one-third-width img{
     width: 100%;
     text-align: center;
-    
 }
-
 .inqury {
     background-image: url(shapes/Group_33094_1.png);
     background-repeat: no-repeat;
@@ -105,13 +94,12 @@ p{
     padding-top: 113px;
     margin: 32px 112px -267px;
     height:550px;
-
-    
 }
 .inqury-text{
     width: 50%;
     float: left;
-}.inqury-text h2 {
+}
+.inqury-text h2 {
     font-size: 38px;
     text-align: center;
     color: white;
@@ -132,19 +120,11 @@ p{
     text-align: center;
     height: 261px;
     margin-top: 0px;
-    
-  
-    
-    
 }
 .service-one-thrid h2{
     text-align: center;
-    
-    
-
 }
 .service-one-thrid{
-    
     float: left;
     text-align: center;
     margin-top: 10%;
@@ -153,9 +133,6 @@ p{
     border-radius: 8px;
     height: 300px;
     padding: 6px;
-
-    
-
 }
 .service-one-thrid img {
     float: left;
@@ -163,54 +140,34 @@ p{
     width: 80px;
     margin-left: 18px;
 }
-#vertical-gerdiant-one
-    {
-        border-left: 5px solid;
-        border-image: linear-gradient(180deg,lightSalmon, tomato);
-        border-image-slice: 1;
-    }
-    #vertical-gerdiant-two
-    {
-        border-left: 5px solid;
-        border-image: linear-gradient(180deg,rgb(5, 17, 122), rgb(17, 17, 17));
-        border-image-slice: 1;
-    }
-    #vertical-gerdiant-three
-    {
-        border-left: 5px solid;
-        border-image: linear-gradient(180deg,rgb(17, 17, 17), rgb(224, 224, 224));
-        border-image-slice: 1;
-    }
-
-
-
-
-
+#vertical-gerdiant-one {
+    border-left: 5px solid;
+    border-image: linear-gradient(180deg,lightSalmon, tomato);
+    border-image-slice: 1;
+}
+#vertical-gerdiant-two {
+    border-left: 5px solid;
+    border-image: linear-gradient(180deg,rgb(5, 17, 122), rgb(17, 17, 17));
+    border-image-slice: 1;
+}
+#vertical-gerdiant-three {
+    border-left: 5px solid;
+    border-image: linear-gradient(180deg,rgb(17, 17, 17), rgb(224, 224, 224));
+    border-image-slice: 1;
+}
 footer{
     display: block;
     text-align: center;
     height:194px;
     margin-top: 40%;
     margin-bottom: 10%;
-
-
 }
-
 .footer-text p{
     display: block;
     font-size: 40px;
     color:#142952;
-    
 }
 .footer-icon img{
     width: 2%;
     margin-right: 2%;
-    
-
 }
-
-
- 
-
-
-
