@@ -1,0 +1,178 @@
+body{
+    margin:0;
+    font-family: 'Oswald', sans-serif;
+  
+}
+h1{
+    font-size: 50px;
+     
+}
+h2{
+    font-size: 45px;
+    color:#142952;
+}
+h3{
+    font-size: 32px;
+    color: #142952;
+    text-align: left;
+}
+h4{
+    font-size: 22px;
+    text-align: center;
+    color: grey;
+}
+p{
+    color: dimgray;
+}
+/* section{
+    height:550px;
+    
+}*/
+.top-banner{
+    padding-top: 5%;
+    margin-bottom: 10%;
+    height:550px;
+
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{ 
+    width: 100%;
+    margin-left: 10%;
+    
+}
+
+.blue-highlight{
+    color: #142952;
+}
+.name-highlight{
+    color:rgb(247, 121, 99);
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient( 45deg, lightSalmon, tomato);
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+.about-section{
+    height:550px;
+}
+.working-projects{
+    margin-top: 14%;
+    margin-bottom: 26%;
+    height:550px;
+
+
+    
+}
+.working-projects h2{
+    text-align: center;
+    margin-bottom: 10%;
+}
+.lightSalmon-highlight{
+    color:  lightSalmon;
+
+}
+.one-third-width {
+    float: left;
+    width: 25%;
+    margin-left: 6%;
+    margin-bottom: 0%;
+    box-shadow: 4px 6px 52px grey;
+    border-radius: 8px;
+    height: 92%;
+    padding: 6px;
+}
+.one-third-width img{
+    width: 100%;
+    text-align: center;
+    
+}
+
+.inqury {
+    background-image: url(shapes/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: 98% 41%;
+    padding-top: 113px;
+    margin: 112px;
+    height:550px;
+
+    
+}
+.inqury-text{
+    width: 50%;
+    float: left;
+}.inqury-text h2 {
+    font-size: 38px;
+    text-align: center;
+    color: white;
+    margin-top: 0;
+}
+.chat-button{
+    text-decoration: none;
+    background-image: linear-gradient( 45deg, lightSalmon, tomato);
+    background-color: orange;
+    padding: 20px 31px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 800;
+    margin-left: 32%;
+    font-size: 17px;
+}
+.service{
+    text-align: center;
+    height: 261px;
+    
+    
+}
+.service-one-thrid h2{
+    text-align: center;
+    
+    
+
+}
+.service-one-thrid{
+    float: left;
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 86px;
+    box-shadow: 4px 6px 52px grey;
+    border-radius: 8px;
+    height: 300px;
+    padding: 6px;
+
+}
+
+footer{
+    display: block;
+    text-align: center;
+    height:194px;
+    margin-top: 22%;
+
+
+}
+
+.footer-text p{
+    display: block;
+    font-size: 20px;
+    color:#142952;
+    
+}
+.footer-icon img{
+    width: 2%;
+    margin-right: 2%;
+
+}
+
+
+ 
+
+
+
