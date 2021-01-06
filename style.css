@@ -5,6 +5,8 @@ body{
 }
 h1{
     font-size: 50px;
+    margin-bottom: 0px;
+    margin-top: 0px;
      
 }
 h2{
@@ -14,7 +16,7 @@ h2{
 h3{
     font-size: 32px;
     color: #142952;
-    text-align: left;
+    text-align: center;
 }
 h4{
     font-size: 22px;
@@ -101,7 +103,7 @@ p{
     background-repeat: no-repeat;
     background-size: 98% 41%;
     padding-top: 113px;
-    margin: 112px;
+    margin: 32px 112px -267px;
     height:550px;
 
     
@@ -129,6 +131,9 @@ p{
 .service{
     text-align: center;
     height: 261px;
+    margin-top: 0px;
+    
+  
     
     
 }
@@ -139,35 +144,68 @@ p{
 
 }
 .service-one-thrid{
+    
     float: left;
     text-align: center;
     margin-top: 10%;
-    margin-left: 86px;
+    margin-left: 74px;
     box-shadow: 4px 6px 52px grey;
     border-radius: 8px;
     height: 300px;
     padding: 6px;
 
+    
+
 }
+.service-one-thrid img {
+    float: left;
+    height: 70px;
+    width: 80px;
+    margin-left: 18px;
+}
+#vertical-gerdiant-one
+    {
+        border-left: 5px solid;
+        border-image: linear-gradient(180deg,lightSalmon, tomato);
+        border-image-slice: 1;
+    }
+    #vertical-gerdiant-two
+    {
+        border-left: 5px solid;
+        border-image: linear-gradient(180deg,rgb(5, 17, 122), rgb(17, 17, 17));
+        border-image-slice: 1;
+    }
+    #vertical-gerdiant-three
+    {
+        border-left: 5px solid;
+        border-image: linear-gradient(180deg,rgb(17, 17, 17), rgb(224, 224, 224));
+        border-image-slice: 1;
+    }
+
+
+
+
 
 footer{
     display: block;
     text-align: center;
     height:194px;
-    margin-top: 22%;
+    margin-top: 40%;
+    margin-bottom: 10%;
 
 
 }
 
 .footer-text p{
     display: block;
-    font-size: 20px;
+    font-size: 40px;
     color:#142952;
     
 }
 .footer-icon img{
     width: 2%;
     margin-right: 2%;
+    
 
 }
 
